@@ -6,4 +6,4 @@ PURPOSE OF PROJECT:To provide a program that takes a dfa and determines if it ac
 VERSION or DATE: 11/18/21
 HOW TO START THIS PROJECT:
 AUTHORS: Jimi Hayes and Chloe Campbell
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: use javac EmptyDFA.java to compile, run with java EmptyDFA
